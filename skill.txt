@@ -1,0 +1,27 @@
+1. Add Skill
+User inputs: Name, Skill, Field, Experience Level.
+
+Validates inputs before storing.
+
+Appends data to skills.csv.
+
+2. View All Skills
+Displays all skill records in a scrollable text area.
+
+Reads from skills.csv.
+
+3. Search Skill
+Prompts the user to enter a name or skill.
+
+Displays all matched results from the CSV.
+
+4. Delete Skill
+Prompts for a name.
+
+Deletes the first matching record.
+
+5. Data Persistence
+All data is saved in skills.csv.
+
+Automatically creates the file with headers if missing.
+
